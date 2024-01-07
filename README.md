@@ -4,7 +4,7 @@ Data visualization is becoming a pivotal skill across various sectors, encompass
 
 My goal with this project was to shift my business perspective using Data Visualizations through Interactive Live Dashboards using PowerBi.
 
-In this Tutorial, I have discussed all the Important and prominent Charts and their variations so that anybody can understand them easily. Ideally, anyone with a small business could create a similar  analysis, provided minimal record keeping. 
+In this tutorial, I have discussed all the important and prominent charts and their variations so that anybody can understand them easily. Ideally, anyone with a small business could create a similar analysis, provided minimal record keeping. 
 
 ![image](https://github.com/panchoprograms/Business-Data-modeling/assets/147740662/240ea88e-5b34-414b-bc3a-13ac886c20a1)
 
