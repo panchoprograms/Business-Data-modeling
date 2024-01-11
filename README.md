@@ -12,7 +12,7 @@ Depending on the business model, sales or services I also explored how to analyz
 
 ## Contents
 * 1. Line Plots
-* 2. Bar Plots
+* 2. Bar Charts
 * 3. Pie Charts
 * 4. Improving the Visibility of Charts
 * 5. Introduction to Cards
