@@ -20,3 +20,7 @@ Depending on the business model, sales or services I also explored how to analyz
 * 7. Introduction to ArcGIS through PowerBi
 
 If any doubts or suggestions, please leave a message for me on linkedin.
+
+
+![image](https://github.com/user-attachments/assets/93268ddd-5dd4-4054-952c-a1e65d5502d3)
+
